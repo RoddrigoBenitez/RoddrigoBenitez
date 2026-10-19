@@ -123,7 +123,7 @@ Currently working on:
 
 ---
 
-## 📈 GitHub Analytics
+<!---## 📈 GitHub Analytics
 
 <p align="center">
 
@@ -131,7 +131,7 @@ Currently working on:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoddrigoBenitez&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p>--->
 
 ---
 
